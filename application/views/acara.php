@@ -111,14 +111,15 @@ section.sec6 p{
 </section>
 
 <section class="sec2">
-  
-  
-    <h1>Acara Coming Soon</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-    
-  
-  
+
+    <h2>KEGIATAN MENANAM 2017</h2>
+    <div class="fakeimg"><img src="assets/images/kegiatan.jpg"></div>
+
+  <p>Sebagai Implementasi bentuk dukungan terhadap  program pemerintah “Indonesia Bebas Sampah 2020” sekaligus memperingati Hari Menanam Pohon Nasional 2017, Giant mengenalkan gerakan “Karena Aku Cinta Lingkungan” (KANCIL).
+Gerakan ini merupakan upaya yang dilakukan Giant dalam menumbuhkan kepedulian lingkungan melalui kegiatan menanam pohon bersama murid-murid TK Mursan Harun Nur Rasyid, di Rumah Kelola Sampah (RKS) Giant, Ciputat pada hari ini Selasa, 28 November 2017.
+Gerakan KANCIL ini mengajak 36 anak dan menyerahkan 60 bibit tanaman untuk ditanam. Tampak wajah-wajah penuh antusias menyimak cara menanam yang baik dan benar, dengan pemanfaatan wadah dari sampah selain menggunakan polybag. Serta, media tanam yang digunakan juga ada dari komposter hasil pengelolaan sampah warga.
+“Seperti pohon besar yang tumbuh dari bibit, kepedulian terhadap lingkungan perlu ditanam sejak dini. 
+</p>
 </section>
 
 <section class="sec3">
@@ -136,8 +137,7 @@ section.sec6 p{
   
   
     <h1>Acara Coming Soon</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+    <p></p>
   
   
 </section>
@@ -156,9 +156,8 @@ section.sec6 p{
 <section class="sec6">
   
   
-  <h1>Acara Coming Soon</h1>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+  <h3>Acara Coming Soon</h3>
+
   
 
 
